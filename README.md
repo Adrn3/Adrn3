@@ -3,6 +3,13 @@
  A developer passionate about programming and artificial intelligence, with a huge love for Formula 1.
 Curious, motivated, and always ready to take on new technical challenges.
 
+</br>
+
+### Interests
+
+- AI trends & algorithms
+- Formula 1
+
   <p align="left">
       <a href="https://github.com/Adrn3?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Adrn3?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
