@@ -29,4 +29,4 @@
 
 ![Adrn GitHub stats](https://github-readme-stats.vercel.app/api?username=adrn3&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) --
+![Adrn GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrn3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
