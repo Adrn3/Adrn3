@@ -3,8 +3,6 @@
  A developer passionate about programming and artificial intelligence, with a huge love for Formula 1.
 Curious, motivated, and always ready to take on new technical challenges.
 
-</br>
-
 ### Interests
 
 - AI trends & algorithms
