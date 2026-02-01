@@ -37,4 +37,4 @@ Curious, motivated, and always ready to take on new technical challenges.
 
 ![Adrn GitHub stats](https://github-readme-stats.vercel.app/api?username=adrn3&show_icons=true&theme=gruvbox)
 
-![Adrn GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrn3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Adrn GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrn3&show_icons=true&theme=gruvbox)
